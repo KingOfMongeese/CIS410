@@ -12,6 +12,7 @@ tk = "^0.1.0"
 
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.11.1"
+black = "^24.8.0"
 
 [build-system]
 requires = ["poetry-core"]
