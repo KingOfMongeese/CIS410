@@ -8,6 +8,7 @@ run:
 ```poetry run python .\hw2\main.py```
 
 A window will open showing the interface:
+
 ![interface](images/gui.png)
 
 Enter a number (int) and click on your prefered temp.
@@ -16,8 +17,8 @@ Enter a number (int) and click on your prefered temp.
 ![converted to C](images/convertedtoC.png)
 
 
-to F assumes the entered number is in C
-to C assumed the entered number is in F
+- to F assumes the entered number is in C
+- to C assumed the entered number is in F
 
 # Enviroment Setup
 
